@@ -14,8 +14,13 @@ jobs:
     name: Generate Snake
     runs-on: ubuntu-latest
 
+    # ── FIX 1: Grant the GITHUB_TOKEN write permission to contents ──
+    permissions:
+      contents: write
+
     steps:
       - name: Generate snake SVGs (light + dark)
+        # ── FIX 2: Use v3 which supports Node 20+ ──
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -24,7 +29,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake SVGs to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
