@@ -299,6 +299,9 @@ If you're building something real with AI — let's talk.
 <a href="https://huggingface.co/A-Kishore">
   <img src="https://img.shields.io/badge/🤗%20HuggingFace-Published%20Models-FFD21E?style=for-the-badge" />
 </a>
+<a href="https://kishoreai.me">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7c3aed?style=for-the-badge" />
+</a>
 
 </div>
 
