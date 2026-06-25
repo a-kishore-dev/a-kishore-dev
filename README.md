@@ -4,7 +4,7 @@
 <!-- TYPING SVG -->
 <div align="center">
   <a href="https://github.com/a-kishore-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6E40C9&center=true&vCenter=true&width=750&lines=RAG+Systems+%C2%B7+LLM+Fine-Tuning+%C2%B7+Multi-Agent+AI;Built+a+Transformer+%26+GPT+from+scratch+in+PyTorch;+%2B191%25+ROUGE-1+with+QLoRA+on+Llama+3.2+3B;RAGAS+Score+4.9%2F5.0+on+Production+RAG+System;Open+to+Full-Time+AI+%2F+ML+%2F+GenAI+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6E40C9&center=true&vCenter=true&width=750&lines=RAG+Systems+%C2%B7+LLM+Fine-Tuning+%C2%B7+Multi-Agent+AI;Built+a+Transformer+%26+GPT+from+scratch+in+PyTorch;+%2B191%25+ROUGE-1+with+QLoRA+on+Llama+3.2+3B;RAGAS+Score+4.9%2F5.0+on+Production+RAG+System;%F0%9F%8C%90+Portfolio%3A+kishoreai.me;Open+to+Full-Time+AI+%2F+ML+%2F+GenAI+Roles+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,6 +12,10 @@
 
 <!-- SOCIAL BADGES -->
 <div align="center">
+  <a href="https://kishoreai.me">
+    <img src="https://img.shields.io/badge/Portfolio-kishoreai.me-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/kishore-ai">
     <img src="https://img.shields.io/badge/LinkedIn-kishore--ai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -288,6 +292,10 @@ If you're building something real with AI — let's talk.
 
 <br/>
 
+<a href="https://kishoreai.me">
+  <img src="https://img.shields.io/badge/Portfolio-kishoreai.me-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
 <a href="https://linkedin.com/in/kishore-ai">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
@@ -299,13 +307,15 @@ If you're building something real with AI — let's talk.
 <a href="https://huggingface.co/A-Kishore">
   <img src="https://img.shields.io/badge/🤗%20HuggingFace-Published%20Models-FFD21E?style=for-the-badge" />
 </a>
-<a href="https://kishoreai.me">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7c3aed?style=for-the-badge" />
-</a>
 
 </div>
 
 ---
+
+<!-- PORTFOLIO LINK FOOTER -->
+<div align="center">
+  <sub>Built with intention · Ships real things · Understands the internals · <a href="https://kishoreai.me">kishoreai.me</a></sub>
+</div>
 
 <!-- CAPSULE RENDER FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:6E40C9&height=120&section=footer&animation=fadeIn" />
